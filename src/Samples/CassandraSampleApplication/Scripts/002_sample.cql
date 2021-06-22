@@ -1,0 +1,1 @@
+INSERT INTO messages (id, some_field) VALUES (c9a3a2f4-ccf6-46d6-af7b-f0774bc7efcc, 999);

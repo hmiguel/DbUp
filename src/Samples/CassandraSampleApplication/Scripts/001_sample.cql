@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS messages (id uuid, some_field int, PRIMARY KEY(id));

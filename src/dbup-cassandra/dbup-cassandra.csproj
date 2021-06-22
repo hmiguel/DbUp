@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>DbUp.Cassandra</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+      <ProjectReference Include="..\dbup-core\dbup-core.csproj" />
+      <PackageReference Include="CassandraCSharpDriver" Version="3.16.3" />
+  </ItemGroup>
+
+</Project>
